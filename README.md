@@ -24,7 +24,7 @@ The system uses a cleaned and labeled dataset of email messages and builds a sup
 
 ## 📂 Dataset
 
-* **Source**: SMS Spam Collection / Custom Email Spam Dataset (CSV format)
+* **Source**: Custom Email Spam Dataset (CSV format)
 * **Instances**: \~5,000 (typical)
 * **Features**:
 
